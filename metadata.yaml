@@ -1,0 +1,29 @@
+_repo: Das-gr-ne-GesichtEin-Roman_45936
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45936-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meyrink, Gustav
+    alias: Meyer-Meyrink, Gustav
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '35032'
+    url: http://www.gutenberg.org/2009/agents/35032
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Meyrink
+description: ''
+gutenberg_issued: '2014-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45936'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amsterdam (Netherlands) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'German fiction'
+title: 'Das grüne Gesicht: Ein Roman'
+url: http://www.gutenberg.org/ebooks/45936
